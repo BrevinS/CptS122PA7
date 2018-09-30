@@ -1,0 +1,9 @@
+﻿  Main.cpp
+c:\users\leonard brkanac\desktop\sfml\sfml\main.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\leonard brkanac\desktop\sfml\sfml\main.cpp(24): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+c:\users\leonard brkanac\desktop\sfml\sfml\main.cpp(79): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\leonard brkanac\desktop\sfml\sfml\main.cpp(80): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\leonard brkanac\desktop\sfml\sfml\main.cpp(125): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\leonard brkanac\desktop\sfml\sfml\main.cpp(259): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  SFML.vcxproj -> C:\Users\Leonard Brkanac\Desktop\SFML\Debug\SFML.exe
+  SFML.vcxproj -> C:\Users\Leonard Brkanac\Desktop\SFML\Debug\SFML.pdb (Full PDB)
